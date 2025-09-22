@@ -4,17 +4,19 @@ A Java Servlet-based web application demonstrating cookie management functionali
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Prerequisites](#prerequisites)
-- [Local Development Setup](#local-development-setup)
-- [Running the Application](#running-the-application)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Technologies Used](#-technologies-used)
+- [Project Structure](#-project-structure)
+- [Prerequisites](#-prerequisites)
+- [Local Development Setup](#-local-development-setup)
+- [Running the Application](#️-running-the-application)
+- [Usage](#-usage)
+- [API Endpoints](#-api-endpoints)
+- [Troubleshooting](#-troubleshooting)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Support](#-support)
 
 ## 🔍 Overview
 
@@ -100,8 +102,8 @@ Before running this application, ensure you have the following installed:
 
 ```powershell
 # Clone the repository
-git clone <repository-url>
-cd CookieWebApp
+git clone https://github.com/ShogunTestOrg/cookie-webapp.git
+cd cookie-webapp
 ```
 
 ### 2. Verify Project Structure
@@ -191,7 +193,7 @@ Access the application at: **http://localhost:8080**
 | `/CreateCookieServlet` | POST | Creates new cookies with user data |
 | `/ReadCookieServlet` | GET | Retrieves and displays stored cookies |
 
-##  Troubleshooting
+## 🔧 Troubleshooting
 
 ### Common Issues
 
